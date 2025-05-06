@@ -20,7 +20,7 @@ JavaScript (Vanilla)
 
 📁 Folder Structure pgsql Copy Edit portfolio/ ├── index.html ├── css/ │ └── style.css ├── js/ │ └── script.js ├── images/ │ └── project-thumbnails, profile-photo, etc. └── README.md 🚀 Getting Started Prerequisites Just a browser! But to run locally:
 
-Clone and Run Locally bash Copy Edit git clone 
+Clone and Run Locally bash Copy Edit git clone https://github.com/PoonamChaudhary222/portfolio.git
 💡 Customization Tips Replace text content in index.html with your own bio and information.
 
 Update project details and image links.
